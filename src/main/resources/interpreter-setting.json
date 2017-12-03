@@ -1,0 +1,14 @@
+[
+  {
+    "group": "frege",
+    "name": "frege",
+    "className": "org.apache.zeppelin.haskell.HaskellFregeInterpreter",
+    "properties": {
+
+    },
+    "editor": {
+      "language": "haskell",
+      "editOnDblClick": false
+    }
+  }
+]
